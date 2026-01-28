@@ -68,7 +68,7 @@ footnotereturnlinkcontents = "↩"
     languageName = "English"
     languageCode = "en-us"
     weight = 1
-    title = "Hugo-HT"
+    title = "About Min Jin"
     contentDir = "content/en"
 
     [languages.en.params]
@@ -101,7 +101,7 @@ footnotereturnlinkcontents = "↩"
     languageName = "中文"
     languageCode = "zh-cn"
     weight = 2
-    title = "Hugo-HT"
+    title = "自留地"
     contentDir = "content/cn"
 
     [languages.cn.params]
