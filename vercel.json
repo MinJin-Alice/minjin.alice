@@ -2,6 +2,14 @@
   "framework": "hugo",
   "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/en/",
+      "permanent": false
+    }
+  ],
   "build": {
     "env": {
       "HUGO_VERSION": "0.154.5",
