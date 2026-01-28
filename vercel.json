@@ -3,7 +3,6 @@
       "env": {
         "HUGO_VERSION": "0.154.5",
         "HUGO_ENV":"production"
-      },
-      "command": "hugo --minify"
+      }
     }
 }
