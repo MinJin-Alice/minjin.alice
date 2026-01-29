@@ -1,3 +1,10 @@
+---
+title: "开启软装第一步！"
+date: 2026-01-29
+author: "MinJin"
+draft: false
+---
+
 # 开启软装第一步！ 2026-01-29
 
 挣扎了快一年，终于在[郝鸿涛](https://hongtaoh.com/cn/2024/03/22/personal-website-tutorial/)老师的教程指导下整出来了毛坯版个人网站，接下来可以开启本网站的装修计划啦！（*不得不说，现在AI真的太好用了，在此感谢Gemini和千问两位AI老师*）
