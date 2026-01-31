@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://minjin-alice.vercel.app/"
 theme = "hugo-ht"
 languageCode = "en-us"
 defaultContentLanguage = "en"
