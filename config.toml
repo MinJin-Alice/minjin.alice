@@ -101,12 +101,11 @@ footnotereturnlinkcontents = "↩"
     languageName = "中文"
     languageCode = "zh-cn"
     weight = 2
-    title = "自留地"
+    title = "jm的自留地"
     contentDir = "content/cn"
 
     [languages.cn.params]
       description = "个人网站"
-      author="Min Jin"
       licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"
 
     [languages.cn.taxonomies]
