@@ -106,7 +106,7 @@ footnotereturnlinkcontents = "↩"
 
     [languages.cn.params]
       description = "个人网站"
-      author=Min Jin
+      author="Min Jin"
       licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans"
 
     [languages.cn.taxonomies]
