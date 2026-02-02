@@ -55,12 +55,12 @@ footnotereturnlinkcontents = "↩"
 [params]
   MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
   MathJaxVersion = "2.7.5"
-  favicon = "media/hugo-logo.png"
+  favicon = "/images/260201.jpg"
   GithubRepo = "https://github.com/MinJin-Alice/minjin.alice"
   copyright = "&copy;"
   copyrightYearStart = "2020"
   blogDirName = "posts"
-  logo = { url = "hugo-logo.png", width = 50.0, height = 50.0, alt = "Hugo-ht" }
+  logo = { url = "/images/260201.jpg", width = 50.0, height = 50.0, alt = "minjin's blog" }
 
 [languages]
 
