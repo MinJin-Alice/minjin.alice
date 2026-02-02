@@ -11,6 +11,7 @@
 
 如果我申博贼心不死，应该会把英文版CV放上来。
 <br>
+<br>
 
 <h1 style="font-size: 1.2em; color: #080808;">关于本站</h1>
 
@@ -27,14 +28,20 @@
 <br>
 本站的功能大致包括：持续更新装修日记，存档一些微小的人生经验，顺便储藏一些中英文习作。
 <br>
-网站还在装修阶段，毛坯来自[郝鸿涛](https://hongtaoh.com)
+
+
+网站还在装修阶段，毛坯来自： [郝鸿涛](https://hongtaoh.com)
 
 装修网站的建材、灵感和装修技巧来自：
 
 [蔡汉霖](https://caihanlin.com/)
+
 [黄国政](https://guozheng.rbind.io/)
+
 [谢益辉](https://yihui.org/)
+
 [于淼](https://yufree.cn/)
+
 [袁凡](https://yuanfan.rbind.io/)
 
 非常非常感谢各位施主（鞠躬 jpg.）。
