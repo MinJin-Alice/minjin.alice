@@ -4,16 +4,16 @@ type : list-single
 toc: true
 ---
 
-<div style="background-color: #2d3748; color: #f3f7fb; padding: 16px; border-radius: 8px; margin: 20px 0; font-size: 0.9em; line-height: 1.6;">
+<div style="background-color: #5e90e6; color: #f3f7fb; padding: 16px; border-radius: 8px; margin: 20px 0; font-size: 0.9em; line-height: 1.6;">
   <p>此处的自我介绍比首页写得更详细了</p>
-  <p>虽然在已经把发表列出来的情况下，把实名换成了简写像穿衣服进澡堂一样多此一举</p>
-  <p>但确实是我最后的一丝倔强</p>
+  <p>虽然在已经把发表列出来的情况下，把实名换成简写像穿衣服进澡堂一样多此一举</p>
+  <p>但确实是我的最后一丝倔强</p>
 </div>
 
 
 姓名：jm
 
-职业：学生，退堂鼓一级运动员
+职业：学生，退堂鼓一级运动员，无梦想者
 
 出生年月：2001年1月
 
@@ -24,6 +24,7 @@ toc: true
 2023-2026，安徽大学，新闻传播学（硕士）
    
    - 研究兴趣：媒介记忆，文化研究，identity
+   - 希望在硬件上掌握更多量化的方法，在软件上挖掘文化的深度。
 
 ## 发表
 
@@ -31,11 +32,10 @@ toc: true
 zn, czy, *jm*. (2023). “绩点游戏”：大学生“卷绩点”现象的社会学解读——基于异化理论的视角. 中国青年研究, (1), 79–86, 12.
 
 ### 会议
-pd, *jm*, Revisiting the Digital Closet: Privacy, Intimacy, and Identity Curation on a Chinese Gay Dating
+dp, *jm*, Revisiting the Digital Closet: Privacy, Intimacy, and Identity Curation on a Chinese Gay Dating
 Platform, International Association for Media and Communication Research(IAMCR), Singapore, Jul 2025.
 
-jm, 《三重勾连视角下大学生的课堂媒介实践研究》，江苏省第十一届传媒学科研究生论坛，江苏南京，2024年11月
-
+jm, 《三重勾连视角下大学生的课堂媒介实践研究》，江苏省第十一届传媒学科研究生论坛二等奖，江苏南京，2024年11月
 
 ## 爱好
 读闲书，看电影，练琴
@@ -56,6 +56,13 @@ jm, 《三重勾连视角下大学生的课堂媒介实践研究》，江苏省�
 不敢说这是2026的to-do-list，希望明年这个时候我还在装修我的这个小窝，能够更新一下完成情况。
 
 
+## 长远目标
+希望这一生能做到：无论外界环境如何变化，都能够保持思考和快乐。
 
+## 技能
+
+计算机： Python和Markdown掉包侠，和AI协作能完成简单的项目
+英语： 雅思7.5(2025/05/03 L8.5, R7.5, W6.5, S6.5, 性价比极高的首考7.5) 
+西语和韩语：仅限于识字 
 
 
