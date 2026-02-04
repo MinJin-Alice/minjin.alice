@@ -2,71 +2,111 @@
 title: "Curriculum Vitae"
 type : list-single
 ---
-{{<block class="note">}}
-The following content came from the [Compact Academic CV](https://www.latextemplates.com/template/compact-academic-cv) by [Dario Taraborelli](https://github.com/dartar).
-{{<end>}}
+# Min Jin
 
-## Albert Einstein
+**Tel:** [(+86) 18820163600](tel:+8618820163600) | **Email:** [alice.minjin@gmail.com](mailto:alice.minjin@gmail.com)
+**Personal Website:** [https://minjin-alice.vercel.app](https://minjin-alice.vercel.app)
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+---
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
+## EDUCATION
 
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
+**Anhui University** | Hefei, China  
+*M.A. in Journalism and Communication* | Expected Jun 2026  
+* **GPA:** 3.98/5
 
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
+**Shandong University** | Jinan, China  
+*B.A. in Journalism and Communication* | Jun 2023  
+* **GPA:** 3.90/5
 
-### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
+---
 
-### Areas of specialisation
-Physics; Relativity Theory
+## RESEARCH INTERESTS
 
-### Appointments held
+**Political Communication, Identity, Media Memory, Urban Communication**
 
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
+* My research focuses on how media practices shape identity, belonging, and memory in contemporary China, with attention to marginalized groups including LGBTQ communities, women, people with disabilities, older adults, and internal migrants.
+* My Master’s thesis investigates how migrant second generation in Shenzhen negotiate identity and belonging through media memory on social platforms.
+* More broadly, my research tends to explore the intersections of political communication, digital memory, and identity construction in the context of China’s rapid urban transformation.
 
-### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
+---
 
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
+## PUBLICATIONS
 
-### Publications & talks
-#### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
+### Journal Paper
+* Ning Zhan, Zhiyuan Cui, **Min Jin** (2023). **The GPA Game: A Sociological Interpretation of College Students’ Pursuit of Grades from the Perspective of Alienation Theory** [In Chinese]. *Journal of Schooling Studies*, (1): 79–86. [DOI Link](https://link.cnki.net/doi/10.19633/j.cnki.11-2579/d.2023.0010)
 
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
+### Conference Presentations
+* Peng Dai, **Min Jin** [presenter]. **Revisiting the Digital Closet: Privacy, Intimacy, and Identity Curation on a Chinese Gay Dating Platform**. *International Association for Media and Communication Research (IAMCR)*, Singapore, Jul 2025.
+* **Min Jin**. **A Study of College Students' Classroom Media Practices from a Triple Articulation Perspective**. *The 11th Jiangsu Province Graduate Academic Innovation Forum*, China, Jan 2025. 
+    * **Award:** Second Prize
 
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
+---
 
-### Teaching
+## RESEARCH PROJECTS
 
-...
+### Published Work and Conference
 
-### Service to the profession
+**The GPA Game: A Sociological Interpretation of College Students’ Pursuit of Grades from the Perspective of Alienation Theory** | 2023
+*Role: Third Author*
+* Conducted in-depth interviews with 6 undergraduate students and produced a feature-style report based on their narratives.
+* Transcribed and organized nearly 8,000 words of interview materials for systematic analysis.
+* Completed an extensive literature review situating the study within alienation theory and higher education research.
 
-...
+**Revisiting the Digital Closet: Privacy, Intimacy, and Identity Curation on a Chinese Gay Dating Platform** | 2025
+*Role: Co-Author, Presenter at IAMCR*
+* Presented findings at the International Association for Media and Communication Research (IAMCR), Singapore, Jul 2025.
+* Conducted two months of participatory observation on the Blued platform, focusing on user interactions and identity negotiations.
+* Collected and analyzed 50 user profiles to examine symbolic practices of self-presentation and strategies for negotiating constraints.
+
+### Manuscripts under development and independent research projects
+
+**Research on Prosocial Practices in the Everyday Life of A Women’s Online Communities** | Oct 2020 – Feb 2024
+* Analyzed 537 curated posts (260K+ words) from a Chinese social media platform using LDA modeling and Python-based word cloud visualization.
+* Conducted textual analysis of 50 female-authored posts in NVivo 12, identifying three narrative categories: everyday practices, healing, and anti-violence.
+* Revealed the community’s framework through discourse analysis, highlighting empathy-driven identity formation and pathways to offline empowerment.
+
+**Research on Disability Representation and Audience Engagement on a Chinese Social Video Platform** | Dec 2023 – Feb 2024
+* Designed and implemented a research framework examining digital inclusion of disabled populations over a two-year period.
+* Analyzed 30 videos and 2,706 real-time comments using NVivo 12.
+* Discovered frequent hostile remarks reinforcing pathologized disability perceptions in digital discourse and highlighted transient empathy fails to drive structural change, necessitating multi-level interventions.
+
+**Research on Community-Based Elder Care and Digital Back-feeding in Shandong Province** | Jun 2021 – Sep 2021
+* Coordinated a 10-member research team to deliver seven technology literacy workshops for older adults across four communities, serving 50+ participants.
+* Co-developed the report framework by integrating theories of digital reciprocity with empirical community data.
+* Identified skill gaps, disparities in cultural capital, and intergenerational power dynamics in aging societies; designed a community–university model for digital reciprocity.
+
+**Research on Hong Kong Labor Movement Reporting from a Media Perspective, 1940–1941: A Historical Review** | Jun 2024 – Sep 2024
+* Collected and examined archival newspapers and historical documents on Hong Kong’s labor movement during 1940–1941.
+* Conducted discourse analysis to trace media narratives and political framing of labor activism.
+* Produced a critical review highlighting the role of media in shaping historical perceptions of social movements.
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+**Xiaoding Education Institution** | Guangzhou, China  
+*Teaching Assistant* | Jul 2023 – Dec 2025
+* Evaluated 600+ mock exam papers for M.A. candidates in Journalism and communication programs.
+* Authored 100,000+ personalized comments.
+* Integrated psychological support through growth mindset language, promoting effective interpersonal communication skills.
+
+---
+
+## AWARDS & SCHOLARSHIPS
+
+* **Postgraduate Academic Scholarship**, Anhui University | 2025, 2024, 2023
+* **Excellent Award**, National College Advertising Competition (Shandong Division) | 2021
+* **Outstanding Student Journalist**, Shandong University | 2020
+* **Outstanding Individual in Social Work**, Shandong University | 2020
+* **2nd Place**, 7th National University Online Debate Invitational Tournament (Out of 32 Teams) | 2020
+
+---
+
+## SKILLS & INTERESTS
+
+* **Languages:** Mandarin Chinese, Cantonese, English (IELTS: 7.5), Spanish (Elementary), Korean (Elementary)
+* **Certificate:** National Teacher Certificate (Senior Secondary Chinese Language and Literature)
+* **Programming Languages:** Python (`numpy`, `pandas`, `scikit-learn`, `matplotlib`, `nltk`, `jieba`)
+* **Software and Tools:** SPSS, Amos Graphics, Gephi, UCINET, NVivo, Origin, Knime, LaTeX, Markdown, Excel
+* **Interests:** Playing Piano, Hiking, Reading
