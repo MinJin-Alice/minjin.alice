@@ -4,8 +4,7 @@ type : list-single
 ---
 # Min Jin
 
-**Tel:** [(+86) 18820163600](tel:+8618820163600) | **Email:** [alice.minjin@gmail.com](mailto:alice.minjin@gmail.com)
-**Personal Website:** [https://minjin-alice.vercel.app](https://minjin-alice.vercel.app)
+ **Email:** [alice.minjin@gmail.com](mailto:alice.minjin@gmail.com)
 
 ---
 
