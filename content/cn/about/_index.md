@@ -4,11 +4,11 @@ type : list-single
 toc: true
 ---
 
-<div style="background-color: #e1e1f5; color: #1d1e1e; padding: 14px; border-radius: 6px; margin: 20px auto; font-size: 0.9em; line-height: 1.6; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 12px; max-width: 80%;">
-  <p>此处的自我介绍比首页写得更详细了</p>
-  <p>虽然在已经把发表列出来的情况下</p>
-  <p>把实名换成简写像穿衣服进澡堂一样多此一举</p>
-  <p>但确实是我的最后一丝倔强</p>
+<div style="border: 1px solid #e0e0e0; border-radius: 4px; padding: 16px 20px; margin: 32px auto; font-size: 0.9em; color: #121111; max-width: 90%; text-align: center;">
+  <p style="margin: 4px 0;">此处的自我介绍比首页写得更详细了</p>
+  <p style="margin: 4px 0;">虽然在已经把发表列出来的情况下</p>
+  <p style="margin: 4px 0;">把实名换成简写像穿衣服进澡堂一样多此一举</p>
+  <p style="margin: 4px 0;">但确实是我的最后一丝倔强</p>
 </div>
 
 姓名：jm
