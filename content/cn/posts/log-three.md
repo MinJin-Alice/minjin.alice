@@ -1,6 +1,6 @@
 ---
 title: "装修日记03"
-date: 2026-02-06
+date: 2026-02-06T00:00:00Z
 author: "MinJin"
 draft: false
 ---
