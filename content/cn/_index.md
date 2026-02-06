@@ -19,10 +19,18 @@
 
 目前处在人生混沌期，需要一个容器盛放焦虑，学习技能，希望这个赛博小窝能帮到我。
 
-<br>
 本站的功能大致包括：持续更新装修日记，存档一些微小的人生经验，顺便储藏一些中英文习作。
 <br>
-
+<div style="text-align: center; margin: 40px auto;">
+  <div style="display: inline-block; border: 1px solid #e0e0e0; border-radius: 4px; padding: 12px; background-color: transparent;">
+    <img src="/images/frowning-cat.png" alt="jm的自留地" style="width: 80px; height: auto; display: block;">
+  </div>
+  
+  <p style="font-size: 0.85em; color: #888; margin-top: 12px; line-height: 1.2;">
+    图片出处来自小红书博主 @金花生酱
+  </p>
+</div>
+<br>
 
 网站还在装修阶段，毛坯来自： [郝鸿涛](https://hongtaoh.com)
 
