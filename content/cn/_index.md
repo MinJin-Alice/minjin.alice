@@ -27,10 +27,9 @@
   </div>
   
   <p style="font-size: 0.85em; color: #888; margin-top: 12px; line-height: 1.2;">
-    图片出处来自小红书博主 @金花生酱
+    logo来自小红书博主 @金花生酱
   </p>
 </div>
-<br>
 
 网站还在装修阶段，毛坯来自： [郝鸿涛](https://hongtaoh.com)
 
