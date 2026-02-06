@@ -60,7 +60,7 @@ footnotereturnlinkcontents = "↩"
   copyright = "&copy;"
   copyrightYearStart = "2020"
   blogDirName = "posts"
-  logo ={ url = "images/handmade.jpg", width = 60, height = 60, alt = "jm的自留地" }
+  logo ={ url = "/images/handmade.png", width = 60, height = 60, alt = "jm的自留地" }
 
 [languages]
 
