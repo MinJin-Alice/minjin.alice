@@ -47,12 +47,16 @@ type : list-single
 ### Published Work and Conference
 
 **The GPA Game: A Sociological Interpretation of College Students’ Pursuit of Grades from the Perspective of Alienation Theory** | 2023
+
+
 *Role: Third Author*
 * Conducted in-depth interviews with 6 undergraduate students and produced a feature-style report based on their narratives.
 * Transcribed and organized nearly 8,000 words of interview materials for systematic analysis.
 * Completed an extensive literature review situating the study within alienation theory and higher education research.
 
 **Revisiting the Digital Closet: Privacy, Intimacy, and Identity Curation on a Chinese Gay Dating Platform** | 2025
+
+
 *Role: Co-Author, Presenter at IAMCR*
 * Presented findings at the International Association for Media and Communication Research (IAMCR), Singapore, Jul 2025.
 * Conducted two months of participatory observation on the Blued platform, focusing on user interactions and identity negotiations.
