@@ -60,7 +60,7 @@ footnotereturnlinkcontents = "↩"
   copyright = "&copy;"
   copyrightYearStart = "2020"
   blogDirName = "posts"
-  logo = "/images/frowning-cat.png"
+  logo = ""
 
 [languages]
 
