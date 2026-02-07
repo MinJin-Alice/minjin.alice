@@ -60,7 +60,7 @@ footnotereturnlinkcontents = "↩"
   copyright = "&copy;"
   copyrightYearStart = "2020"
   blogDirName = "posts"
-  logo = "/images/hugo-logo.png"
+  logo = "/static/images/hugo-logo.png"
 
 [languages]
 
