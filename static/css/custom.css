@@ -1,0 +1,15 @@
+body, .content, p, li, .body-text, blockquote {
+  font-family: 'Merriweather', 'Source Han Serif CN', '思源宋体', Georgia, 'Times New Roman', serif;
+}
+
+h1, h2, h3, h4, h5, h6, strong, b {
+  font-family: 'Open Sans', 'Source Han Sans CN', '思源黑体', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+}
+
+.nav-links a {
+  font-family: 'Open Sans', 'Source Han Sans CN', '思源黑体', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+}
+
+.card-date {
+  font-family: 'Open Sans', 'Source Han Sans CN', '思源黑体', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+}
