@@ -81,6 +81,7 @@ footnotereturnlinkcontents = "↩"
 
     [languages.en.permalinks]
       posts = ":year/:month/:day/:slug/"
+      notes = ":year/:month/:day/:slug/"
 
     [[languages.en.menu.main]]
       name = "Home"
@@ -96,6 +97,11 @@ footnotereturnlinkcontents = "↩"
       name = "Posts"
       url = "/posts/"
       weight = 3
+
+    [[languages.en.menu.main]]
+      name = "Notes"
+      url = "/notes/"
+      weight = 4
 
   [languages.cn]
     languageName = "中文"
@@ -114,6 +120,7 @@ footnotereturnlinkcontents = "↩"
 
     [languages.cn.permalinks]
       posts = ":year/:month/:day/:slug/"
+      notes = ":year/:month/:day/:slug/"
 
     [[languages.cn.menu.main]]
       name = "首页"
@@ -129,3 +136,8 @@ footnotereturnlinkcontents = "↩"
       name = "博客"
       url = "/posts/"
       weight = 3
+
+    [[languages.cn.menu.main]]
+      name = "札记"
+      url = "/notes/"
+      weight = 4
