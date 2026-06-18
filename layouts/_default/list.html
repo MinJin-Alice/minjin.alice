@@ -14,23 +14,17 @@
     {{ .Content }}
 
     {{ if not .IsHome }}
-      <ul>
         {{ range .Pages.GroupByDate "2006" }}
-          <h2 style="text-align: left;">{{ .Key }}</h2>
+          <div class="post-year">{{ .Key }}</div>
           {{ range .Pages.GroupByDate "2006-01-02" }}
             {{ range .Pages }}
-              <p class="post-item">
-                <a href="{{ .RelPermalink }}">
-                  {{ .Title }}
-                </a>
-                <span class="date">
-                  {{ .Date.Format "2006-01-02" }}
-                </span>
-              </p>
+              <div class="post-item">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                <span class="date">{{ .Date.Format "2006-01-02" }}</span>
+              </div>
             {{ end }}
           {{ end }}
         {{ end }}
-      </ul>
     {{ end }}
 
   </div>

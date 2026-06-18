@@ -53,25 +53,28 @@ a:hover, a:focus {
   color: #000 !important;
 }
 
-/* 文章列表: 标题左 + 日期右 */
-.list-page ul {
-  padding-left: 0;
-  list-style: none;
+/* 文章列表: 年份 + 标题左 + 日期右 */
+.post-year {
+  font-weight: bold;
+  font-size: 19px;
+  margin: 1.5em 0 0.5em 0;
 }
 .post-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
+  display: table;
+  width: 100%;
+  margin: 0;
 }
 .post-item a {
+  display: table-cell;
+  width: 100%;
   color: #111;
   font-weight: normal;
-  flex: 1;
-  margin-right: 1em;
 }
 .post-item .date {
+  display: table-cell;
+  white-space: nowrap;
+  text-align: right;
   color: #999;
   font-size: 14px;
-  white-space: nowrap;
-  flex-shrink: 0;
+  padding-left: 1em;
 }
