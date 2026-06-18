@@ -32,6 +32,17 @@ a:hover, a:focus {
   color: #000;
 }
 
+/* 文章列表：行距 + 日期间距 + 标题加粗 */
+.list-page p {
+  margin: 0.6em 0;
+}
+.list-page p a {
+  font-weight: 600;
+}
+.list-page .date {
+  margin-right: 0.6em;
+}
+
 /* TOC 链接 - 去掉下划线 */
 .toc a {
   border-bottom: none;
