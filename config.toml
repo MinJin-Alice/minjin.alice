@@ -82,6 +82,7 @@ footnotereturnlinkcontents = "↩"
     [languages.en.permalinks]
       posts = ":year/:month/:day/:slug/"
       notes = ":year/:month/:day/:slug/"
+      moments = ":year/:month/:day/:slug/"
 
     [[languages.en.menu.main]]
       name = "Home"
@@ -103,6 +104,11 @@ footnotereturnlinkcontents = "↩"
       url = "/notes/"
       weight = 4
 
+    [[languages.en.menu.main]]
+      name = "Moments"
+      url = "/moments/"
+      weight = 5
+
   [languages.cn]
     languageName = "中文"
     languageCode = "zh-cn"
@@ -121,6 +127,7 @@ footnotereturnlinkcontents = "↩"
     [languages.cn.permalinks]
       posts = ":year/:month/:day/:slug/"
       notes = ":year/:month/:day/:slug/"
+      shudong = ":year/:month/:day/:slug/"
 
     [[languages.cn.menu.main]]
       name = "首页"
@@ -141,3 +148,8 @@ footnotereturnlinkcontents = "↩"
       name = "札记"
       url = "/notes/"
       weight = 4
+
+    [[languages.cn.menu.main]]
+      name = "树洞"
+      url = "/shudong/"
+      weight = 5
