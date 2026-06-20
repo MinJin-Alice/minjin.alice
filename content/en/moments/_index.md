@@ -4,26 +4,18 @@ type: list-single
 toc: false
 ---
 
-::: {.shudong-card}
+<div class="shudong-card">
 
-#1 ｜ 2026-06-20
-{.card-date}
+<p class="card-date">#1 ｜ 2026-06-20</p>
+<p class="card-title">First Post</p>
+<p>Trying out the Moments section.</p>
 
-First Post
-{.card-title}
+</div>
 
-Trying out the Moments section.
+<div class="shudong-card">
 
-:::
+<p class="card-date">#2 ｜ 2026-06-15</p>
+<p class="card-title">Reading Notes</p>
+<p>Some thoughts on the book I'm reading.</p>
 
-::: {.shudong-card}
-
-#2 ｜ 2026-06-15
-{.card-date}
-
-Reading Notes
-{.card-title}
-
-Some thoughts on the book I'm reading.
-
-:::
+</div>
