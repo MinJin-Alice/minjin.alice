@@ -1,6 +1,12 @@
+---
+title: "树洞test"
+date: 2026-06-20T00:00:00+08:00
+weight: 1
+draft: false
+---
+
 <div class="shudong-card">
   <p class="card-date"> #1 | 2026年6月20日</p>
-  <p class="card-title">树洞test</p>
   <p>尝试一下“树洞”栏目能不能正常运转。</p>
   <p>这个栏目的灵感来源是[黄国政](https://guozheng.rbind.io/moments/)。</p>
   <p>他的网页做得特别好，也看得出来学习的热情和深入，相比起来我的网站就是个搬运合集hhh</p>
