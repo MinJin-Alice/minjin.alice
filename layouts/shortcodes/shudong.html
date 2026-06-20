@@ -1,0 +1,5 @@
+<div class="shudong-card">
+  <p class="card-date">{{ .Get "date" }}</p>
+  <p class="card-title">{{ .Get "title" }}</p>
+  {{ .Inner | markdownify }}
+</div>
