@@ -14,6 +14,31 @@ h1, h2, h3, h4, h5, h6, strong, b {
   font-family: 'Open Sans', 'Source Han Sans CN', '思源黑体', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
 }
 
+/* === 树洞卡片 === */
+.shudong-card {
+  border: 1px solid #333;
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin: 24px 0;
+  background: #000;
+  color: #fff;
+  font-size: 15px;
+  line-height: 1.8;
+}
+.shudong-card .card-date {
+  color: #999;
+  font-size: 13px;
+  margin: 0 0 4px 0;
+}
+.shudong-card .card-title {
+  font-weight: 700;
+  font-size: 17px;
+  margin: 0 0 12px 0;
+}
+.shudong-card p:last-child {
+  margin-bottom: 0;
+}
+
 /* === 全站超链接: 取消蓝色, 取消下划线, 纯黑 === */
 a, a:link, a:visited {
   color: #111;
