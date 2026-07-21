@@ -1,5 +1,5 @@
 ---
-title: "《大问题：简明哲学导论》第一章 哲学问题（施工中）"
+title: "《大问题：简明哲学导论》（施工中）"
 date: 2026-06-20
 author: "MinJin"
 draft: false
